@@ -12,6 +12,7 @@ namespace AdventureGame
         {
             Console.WriteLine("The Cursed Temple of Kumala");
             Console.WriteLine("Welcome to The Cursed Temple of Kumala, this is a Fantasy Pick Your own adventure game, and my first attempt at making a game! I hope you enjoy it!");
+            Console.WriteLine("This is a test for GitPush with new VS 2019 Integration");
             Console.Read();
         }
     }
